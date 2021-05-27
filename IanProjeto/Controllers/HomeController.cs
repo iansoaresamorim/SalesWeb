@@ -17,7 +17,8 @@ namespace IanProjeto.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Salles Web MVC App from C# course.";
+            ViewData["Creator"] = "Ian Soares";
 
             return View();
         }
