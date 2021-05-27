@@ -33,3 +33,4 @@ C:\Users\Ian\source\repos\IanProjeto\IanProjeto\obj\Debug\netcoreapp2.1\IanProje
 C:\Users\Ian\source\repos\IanProjeto\IanProjeto\obj\Debug\netcoreapp2.1\IanProjeto.pdb
 C:\Users\Ian\source\repos\IanProjeto\IanProjeto\obj\Debug\netcoreapp2.1\IanProjeto.genruntimeconfig.cache
 C:\Users\Ian\source\repos\IanProjeto\IanProjeto\obj\Debug\netcoreapp2.1\IanProjeto.csproj.CopyComplete
+C:\Users\Ian\source\repos\IanProjeto\IanProjeto\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

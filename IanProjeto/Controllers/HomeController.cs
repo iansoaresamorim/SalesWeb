@@ -1,4 +1,4 @@
-﻿using IanProjeto.Models;
+﻿using IanProjeto.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

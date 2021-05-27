@@ -19,7 +19,7 @@ using IanProjeto;
 #line default
 #line hidden
 #line 2 "C:\Users\Ian\source\repos\IanProjeto\IanProjeto\Views\_ViewImports.cshtml"
-using IanProjeto.Models;
+using IanProjeto.Models.ViewModels;
 
 #line default
 #line hidden
